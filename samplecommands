@@ -1,0 +1,3 @@
+Port forward a service
+e.g
+kubectl port-forward services/kong-kong-admin 8001:8001 -n kong
